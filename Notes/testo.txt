@@ -1,0 +1,36 @@
+﻿Lambda Expressions: Lambda expressions are anonymous functions that allow you to write short and concise code for delegates or functional interfaces. 
+They are commonly used in LINQ queries and to define short-lived functions inline.
+
+LINQ (Language-Integrated Query): LINQ is a powerful feature in C# that allows you to query and manipulate data from different sources (e.g., collections, databases) using a consistent and declarative syntax.
+
+Extension Methods: Extension methods enable you to add new methods to existing classes without modifying their source code. 
+This is useful for adding utility functions or behavior to third-party or built-in classes.
+
+Async/Await: Asynchronous programming with async/await allows you to write non-blocking code, enabling more responsive applications by avoiding thread blocking and making use of resources more efficiently.
+
+Generics: Generics enable you to create classes, interfaces, and methods that can work with different data types. 
+This promotes code reusability and type safety.
+
+Delegates and Events: Delegates are function pointers that allow you to pass methods as parameters, while events provide a way to implement the Observer pattern for handling and raising events in C#.
+
+Functional Programming: C# supports functional programming concepts, such as higher-order functions, pure functions, immutability, and closures. 
+These concepts can lead to cleaner and more concise code.
+
+IDisposable and Using Statement: The IDisposable interface and the using statement are used to ensure proper resource cleanup, such as closing files or database connections, in a deterministic way.
+
+Attributes: Attributes allow you to add metadata or behavior to types, methods, or properties. 
+They are widely used for customizing the behavior of various components, such as serialization, validation, and dependency injection.
+
+Reflection: Reflection allows you to inspect and manipulate types, methods, properties, and other elements at runtime. It is commonly used for dynamic code generation, plugin systems, and serialization frameworks.
+
+Design Patterns: Understanding and applying design patterns, such as Factory, Singleton, Strategy, Observer, and others, can significantly improve the structure and maintainability of your code.
+
+Exception Handling: Proper exception handling is essential for writing robust applications. 
+C# provides try-catch blocks to handle exceptions and ensures the program continues gracefully after an error occurs.
+
+Dependency Injection (DI): DI is a technique used to decouple components by injecting their dependencies rather than creating them directly. 
+This promotes modular and testable code.
+
+Unit Testing: Writing unit tests using frameworks like NUnit or MSTest helps ensure the correctness of your code, improves code quality, and makes it easier to maintain and refactor.
+
+Collections and LINQ: Leveraging the wide variety of collection types and LINQ methods provided by C# can simplify data manipulation and querying tasks.
